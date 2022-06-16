@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import ActivityCard from '../components/ActivityCard';
-import ConstraintsForm from '../components/ConstraintsForm';
+import ActivityCard from './components/ActivityCard';
+import ConstraintsForm from './components/ConstraintsForm';
 
 function App() {
   return (
